@@ -25,7 +25,7 @@ REQUIREMENTS
 GETTING STARTED
 ------------------------------------------------------------
 1. Clone the repository:
-   git clone https://github.com/Mostafa23/ClipFast-Simple-FFmpeg-Video-Cutter.git && cd ClipFast-Simple-FFmpeg-Video-Cutter
+   git clone https://github.com/Mostafa23/ClipFast-Simple-FFmpeg-Video-Cutter.git
 
 3. Run the app:
    python main.py
