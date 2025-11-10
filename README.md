@@ -28,7 +28,7 @@ GETTING STARTED
    git clone https://github.com/Mostafa23/ClipFast-Simple-FFmpeg-Video-Cutter.git
 
 3. Run the app:
-   python main.py
+   python ClipFast.py
 
 HOW TO USE
 ------------------------------------------------------------
